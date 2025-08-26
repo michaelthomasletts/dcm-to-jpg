@@ -6,6 +6,8 @@ This repository contains software for converting local .dcm files to .pdf or .jp
 
 - [Python 3.11+](https://www.python.org/downloads/)
 - [GitHub CLI](https://cli.github.com/)
+- Basic shell skills (e.g. bash), i.e. traversing and creating directories
+- Basic Python skills, i.e. [creating a virtual environment](https://docs.python.org/3/library/venv.html)
 
 ## Installation
 
