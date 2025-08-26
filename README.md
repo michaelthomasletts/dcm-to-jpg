@@ -6,7 +6,7 @@ This repository contains software for converting local .dcm files to .pdf or .jp
 
 .dcm is a common file format for medical doctors and medical institutions. Thus, modern medical institutions tend to store and share patient images and documents in .dcm format, e.g. [NYU Langone's MyChart](https://mychart.nyulmc.org/mychart). Opening and reading .dcm files, however, requires specialized software that patients almost certainly do not have access to. Although there are online tools for converting .dcm > .jpg or .dcm > .pdf, patients may not feel comfortable sharing their medically sensitive data with unknown developers. Which leaves patients in a difficult position. Using this software, you can convert .dcm files to .pdf or .jpg without anxiety about your medically sensitive data getting in the wrong hands.
 
-## Whos is this software for?
+## Who is this software for?
 
 **This tool requires a bit of technical knowledge.** If you are not technically adept then you may need to prompt an LLM, such as ChatGPT, to aide you with using this software. 
 
