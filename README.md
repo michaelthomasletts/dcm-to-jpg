@@ -28,6 +28,11 @@ Use the script like this:
 ```bash
 cd dcm-to-jpg
 python3 -m image_script
+```
+
+You will be prompted, as shown below, to provide the local directories where your .dcm images are saved and where you'd like your .pdf and .jpg files to be saved.
+
+```bash
 Enter input directory (with DICOM files): <input dir>
 Enter output directory (for JPG files): <output dir>
 ```
