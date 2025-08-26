@@ -33,7 +33,9 @@ By using this software on your personal computer, you can convert .dcm files to 
 
 ## Installation
 
-Run the following command to clone this repository:
+Store your .dcm files somewhere on your local machine, and navigate to where those files are saved from your terminal.
+
+Then, run the following command to clone this repository:
 
 ```bash
 gh repo clone michaelthomasletts/dcm-to-jpg
