@@ -1,4 +1,4 @@
-## What is this?
+## Description
 
 This repository contains software for converting local .dcm files to .pdf or .jpg.
 
@@ -8,9 +8,7 @@ Opening and reading .dcm files, however, requires specialized software that pati
 
 Using this software, you can convert .dcm files to .pdf or .jpg without anxiety about your medically sensitive data getting in the wrong hands.
 
-## Who is this software for?
-
-**This tool requires a bit of technical knowledge.** If you are not technically adept then you may want to use [this LLM agent to guide you through using it on your computer](https://chatgpt.com/g/g-68add9b82bec8191942c7da5a6273b13-dcm-to-pdf-or-jpg-converter). 
+**This tool requires a bit of technical knowledge.** If you are not technically adept then you may want to use [this LLM agent to guide you through using this software on your computer locally](https://chatgpt.com/g/g-68add9b82bec8191942c7da5a6273b13-dcm-to-pdf-or-jpg-converter). 
 
 ## Dependencies
 
