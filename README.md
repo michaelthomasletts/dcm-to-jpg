@@ -2,6 +2,11 @@
 
 This repository contains software for converting local .dcm files to .pdf or .jpg.
 
+## Dependencies
+
+- Python 3.11+
+- [GitHub CLI](https://cli.github.com/)
+
 ## Installation
 
 Run the following command to clone this repository:
@@ -10,7 +15,7 @@ Run the following command to clone this repository:
 gh repo clone michaelthomasletts/dcm-to-jpg
 ```
 
-Install the dependencies like so:
+Install the Python dependencies like so:
 
 ```bash
 pip install -r requirements.txt
