@@ -4,7 +4,7 @@ This repository contains software for converting local .dcm files to .pdf or .jp
 
 ## Dependencies
 
-- Python 3.11+
+- [Python 3.11+](https://www.python.org/downloads/)
 - [GitHub CLI](https://cli.github.com/)
 
 ## Installation
