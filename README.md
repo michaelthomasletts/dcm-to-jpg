@@ -33,9 +33,7 @@ By using this software on your personal computer, you can convert .dcm files to 
 
 ## Installation
 
-Store your .dcm files somewhere on your local machine, and navigate to where those files are saved from your terminal.
-
-Then, run the following command to clone this repository:
+Run the following command to clone this repository:
 
 ```bash
 gh repo clone michaelthomasletts/dcm-to-jpg
@@ -49,7 +47,9 @@ pip install -r requirements.txt
 
 ## Usage
 
-Use the script like this:
+Store your .dcm files somewhere on your local machine, and navigate to where those files are saved from your terminal. Ideally, keep those images in the same directory as where you cloned this repository.
+
+Then, use the script like this:
 
 ```bash
 cd dcm-to-jpg
