@@ -53,7 +53,7 @@ Then, use the script like this:
 
 ```bash
 cd dcm-to-jpg
-python3 -m image_script
+python3 -m script
 ```
 
 You will be prompted, as shown below, to provide the local directories where your .dcm images are saved and where you'd like your .pdf and .jpg files to be saved.
