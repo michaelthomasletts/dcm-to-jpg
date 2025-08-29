@@ -1,15 +1,3 @@
-```txt
-     #                        #                      #                
-     #                        #                                       
-  ## #   ###   ## #          ####    ###            ##   # ##    ## # 
- #  ##  #   #  # # #          #     #   #            #   ##  #  #  #  
- #   #  #      # # #          #     #   #            #   ##  #   ##   
- #  ##  #   #  # # #          #  #  #   #            #   # ##   #     
-  ## #   ###   #   #           ##    ###          #  #   #       ###  
-                                                  #  #   #      #   # 
-                                                   ##    #       ###  
-```
-
 ## Description
 
 This repository contains software for converting local .dcm files to .pdf or .jpg.
