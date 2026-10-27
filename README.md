@@ -8,11 +8,11 @@ This repository contains software for converting local .dcm files to .pdf or .jp
 
 Opening and reading .dcm files requires specialized software that patients rarely have. If ever.
 
-Although there are online tools for converting .dcm -> .jpg or .dcm -> .pdf, patients may not feel comfortable sharing their medically sensitive data with unknown developers. Frankly, they _should not_ feel comfortable doing that! Which leaves patients in a difficult position . . . How do you open a fancy .dcm file without the software to do so, and none of the online file converters seem totally trustworthy . . . ? 😬 
+Although there are online tools for converting .dcm -> .jpg or .dcm -> .pdf, patients may not feel comfortable sharing their medically sensitive data with unknown developers. Frankly, they _should not_ feel comfortable doing that! Which leaves patients in a difficult position . . . How do you open a fancy .dcm file without the software to do so, and none of the online file converters seem totally trustworthy . . . ?
 
 By using this software on your personal computer, you can convert .dcm files to .pdf or .jpg with 100% confidence about your medically sensitive data not getting into the wrong hands. A few extra minutes of effort could save you a lot in peace of mind and security.
 
-**Disclaimer: this tool requires a bit of technical knowledge.** If you are not technically adept then you may want to use [this LLM agent to guide you through using this software on your computer locally](https://chatgpt.com/g/g-68add9b82bec8191942c7da5a6273b13-dcm-to-pdf-or-jpg-converter). It's friendly! 😃
+**Disclaimer: this tool requires a bit of technical knowledge.** If you are not technically adept then you may want to use [this LLM agent to guide you through using this software on your computer locally](https://chatgpt.com/g/g-68add9b82bec8191942c7da5a6273b13-dcm-to-pdf-or-jpg-converter). It's friendly!
 
 ## Dependencies
 
